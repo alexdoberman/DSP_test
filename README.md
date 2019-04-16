@@ -13,3 +13,5 @@ score(x,y) = (Wx)_T * (Wy) / (norm(Wx) * norm(Wy)), где W - whitened PCA matr
 
 fr_fa.png - график fr/fa
 hist.png - гистограммы скоров
+
+EER = 3.3%
